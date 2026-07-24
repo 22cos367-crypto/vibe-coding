@@ -1,8 +1,0 @@
-{
-  "name": "vv-events/website",
-  "description": "VV Events PHP & MySQL Website",
-  "type": "project",
-  "require": {
-    "php": ">=8.2"
-  }
-}
